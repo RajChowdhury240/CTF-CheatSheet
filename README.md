@@ -29,25 +29,6 @@ Welcome to the world of CTFs 🏴‍☠️
 This is an introduction to some of the basics of each category. It was designed to help beginners and old comrades, enjoy the ride and "Pwn Every CTF".
 
 
----------------
-
-[Security Cheatsheets](https://github.com/thezakman/CTF-Heaven/tree/master/Cheatsheets)
------------------------
-The purpose of these cheatsheets are to aid penetration testers/CTF participants/security enthusiasts in remembering commands that are useful, but not frequently used.
-
-
-[Wordlists](https://github.com/thezakman/CTF-Heaven/tree/master/Wordlists)
------------------------
-Wordlists of all kind
-
-
-[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
------------------------
-A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-
-
-
-
 
 Esoteric Languages
 -----------------------
