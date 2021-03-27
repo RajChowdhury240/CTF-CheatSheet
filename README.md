@@ -940,9 +940,4 @@ A list of interesting things I can use one day or have already used in the past.
 ![img/dna_codes.png](https://ctf-br.org/wp-content/uploads/2014/12/icon_256x2561.png)
 
 
-	
-
-![alt tag](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
-
-
 
