@@ -20,15 +20,15 @@
 Welcome to the world of CTFs 🏴‍☠️
 ===============
 
-> March 27, 2021 | Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis](https://github.com/CaledoniaProject/awesome-opensource-security).
+> March 27, 2021 | Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis]
 
 
 --------------------------
 
 
-This is an introduction to some of the basics of each category. It was designed to help beginners and old comrades, enjoy the ride and "HackThePlanet".
+This is an introduction to some of the basics of each category. It was designed to help beginners and old comrades, enjoy the ride and "Pwn Every CTF".
 
-[![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://forthebadge.com)
+
 ---------------
 
 [Security Cheatsheets](https://github.com/thezakman/CTF-Heaven/tree/master/Cheatsheets)
