@@ -7,7 +7,6 @@ Welcome to the world of CTFs 🏴‍☠️
 
 > March 27, 2021 | Credits: [John Hammond](https://github.com/JohnHammond/ctf-katana) and  [Aaron Lewis]
 
-
 --------------------------
 
 
