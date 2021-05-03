@@ -13,6 +13,7 @@ Welcome to the world of CTFs 🏴‍☠️
 This is an introduction to some of the basics of each category. It was designed to help beginners and old comrades, enjoy the ride and "Pwn Every CTF".
 
 
+
 Esoteric Languages
 -----------------------
 
