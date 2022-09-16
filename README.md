@@ -46,7 +46,10 @@ Esoteric Languages
 * [Ook!](http://esolangs.org/wiki/ook!)
 
 	A joke language. Recognizable by `.` and `?`, and `!`.
-
+	
+* Hexahue Cipher
+![](https://miro.medium.com/max/465/1*QY8sg087QQwXOoS3Cu1cWg.jpeg)
+https://www.dcode.fr/hexahue-cipher
 ```
 Ook. Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
 Ook. Ook. Ook. Ook. Ook! Ook? Ook? Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook. Ook.
