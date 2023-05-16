@@ -91,6 +91,9 @@
 **[Ryan Gordon](https://www.youtube.com/c/0xRy4n)**<br>
 **[AlmondForce](https://www.youtube.com/c/AlmondForce)**<br>
 **[VulnMachines](https://www.youtube.com/c/vulnmachines)**<br>
+**[David Bombal](https://www.youtube.com/@davidbombal)**<br>
+**[Loi Liang Yang](https://www.youtube.com/@LoiLiangYang)**<br>
+**[PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos)**<br>
 **[Others](https://securitycreators.video)**
 
 # Tools
@@ -115,7 +118,8 @@
 **[Forensics](https://cugu.github.io/awesome-forensics)**<br>
 **[Learn RE](https://hshrzd.wordpress.com/how-to-start)**<br>
 **[Learn BinExp](https://guyinatuxedo.github.io)**<br>
-**[HTB Writeups](https://0xdf.gitlab.io)**
+**[HTB Writeups](https://0xdf.gitlab.io)**<br>
+**[Learn about cyber-attacking methods and vulnerabilities](https://www.hacksplaining.com/)** 
 
 
 ![CTF](https://i.ytimg.com/vi/8ev9ZX9J45A/maxresdefault.jpg)
